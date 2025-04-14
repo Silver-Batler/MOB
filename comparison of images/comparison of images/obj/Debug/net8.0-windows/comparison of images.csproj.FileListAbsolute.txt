@@ -1,0 +1,19 @@
+C:\Users\Silvart\comparison of images\comparison of images\bin\Debug\net8.0-windows\comparison of images.exe
+C:\Users\Silvart\comparison of images\comparison of images\bin\Debug\net8.0-windows\comparison of images.deps.json
+C:\Users\Silvart\comparison of images\comparison of images\bin\Debug\net8.0-windows\comparison of images.runtimeconfig.json
+C:\Users\Silvart\comparison of images\comparison of images\bin\Debug\net8.0-windows\comparison of images.dll
+C:\Users\Silvart\comparison of images\comparison of images\bin\Debug\net8.0-windows\comparison of images.pdb
+C:\Users\Silvart\comparison of images\comparison of images\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Silvart\comparison of images\comparison of images\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Silvart\comparison of images\comparison of images\obj\Debug\net8.0-windows\comparison of images_MarkupCompile.cache
+C:\Users\Silvart\comparison of images\comparison of images\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Silvart\comparison of images\comparison of images\obj\Debug\net8.0-windows\comparison of images.g.resources
+C:\Users\Silvart\comparison of images\comparison of images\obj\Debug\net8.0-windows\comparison of images.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silvart\comparison of images\comparison of images\obj\Debug\net8.0-windows\comparison of images.AssemblyInfoInputs.cache
+C:\Users\Silvart\comparison of images\comparison of images\obj\Debug\net8.0-windows\comparison of images.AssemblyInfo.cs
+C:\Users\Silvart\comparison of images\comparison of images\obj\Debug\net8.0-windows\comparison of images.csproj.CoreCompileInputs.cache
+C:\Users\Silvart\comparison of images\comparison of images\obj\Debug\net8.0-windows\comparison of images.dll
+C:\Users\Silvart\comparison of images\comparison of images\obj\Debug\net8.0-windows\refint\comparison of images.dll
+C:\Users\Silvart\comparison of images\comparison of images\obj\Debug\net8.0-windows\comparison of images.pdb
+C:\Users\Silvart\comparison of images\comparison of images\obj\Debug\net8.0-windows\comparison of images.genruntimeconfig.cache
+C:\Users\Silvart\comparison of images\comparison of images\obj\Debug\net8.0-windows\ref\comparison of images.dll
